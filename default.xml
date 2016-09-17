@@ -9,6 +9,7 @@
 
   <project name="altcrauer/linux" />
   <project name="altera-opensource/linux-socfpga" />
+  <project name="biolab/orange3" />
   <project name="nodejs/node" />
   <project name="openframeworks/openFrameworks" />
   <project name="peyo-hd/device_brcm_rpi2" />
@@ -16,6 +17,5 @@
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/linux" />
   <project name="v8/v8" />
-  <project name="biolab/orange3" />
 
 </manifest>
