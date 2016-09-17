@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp"
+           fetch=".." />
+  <remote  name="github"
+           fetch="https://github.com" />
+  <default revision="master"
+           remote="github"
+           sync-j="4" />
+
+  <project name="altcrauer/linux" />
+  <project name="altera-opensource/linux-socfpga" />
+  <project name="nodejs/node" />
+  <project name="openframeworks/openFrameworks" />
+  <project name="peyo-hd/device_brcm_rpi2" />
+  <project name="pocoproject/poco" />
+  <project name="rasoft/brillo-device" />
+  <project name="raspberrypi/linux" />
+  <project name="v8/v8" />
+  <project name="biolab/orange3" />
+
+</manifest>
