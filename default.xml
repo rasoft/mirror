@@ -16,7 +16,6 @@
   <project name="pocoproject/poco" />
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/linux" />
-  <project name="symless/synergy" />
   <project name="v8/v8" />
 
 </manifest>
