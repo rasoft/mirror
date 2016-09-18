@@ -10,6 +10,9 @@
   <project name="altcrauer/linux" />
   <project name="altera-opensource/linux-socfpga" />
   <project name="biolab/orange3" />
+  <project name="GStreamer/gstreamer" />
+  <project name="GStreamer/gst-plugins-base" />
+  <project name="GStreamer/gst-plugins-good" />
   <project name="nodejs/node" />
   <project name="openframeworks/openFrameworks" />
   <project name="peyo-hd/device_brcm_rpi2" />
