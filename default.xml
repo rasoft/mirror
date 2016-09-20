@@ -14,6 +14,7 @@
   <project name="GStreamer/gst-plugins-base" />
   <project name="GStreamer/gst-plugins-good" />
   <project name="micropython/micropython" />
+  <project name="micropython/micropython-lib" />
   <project name="nodejs/node" />
   <project name="openframeworks/openFrameworks" />
   <project name="openwrt/openwrt" />
