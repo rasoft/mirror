@@ -10,6 +10,7 @@
   <project name="altcrauer/linux" />
   <project name="altera-opensource/linux-socfpga" />
   <project name="biolab/orange3" />
+  <project name="FFmpeg/FFmpeg" />
   <project name="GStreamer/gstreamer" />
   <project name="GStreamer/gst-plugins-base" />
   <project name="GStreamer/gst-plugins-good" />
