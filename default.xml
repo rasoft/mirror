@@ -15,6 +15,7 @@
   <project name="GStreamer/gst-plugins-base" />
   <project name="GStreamer/gst-plugins-good" />
   <project name="kfrlib/kfr" />
+  <project name="kubernetes/kubernetes" />
   <project name="micropython/micropython" />
   <project name="micropython/micropython-lib" />
   <project name="MycroftAI/adapt" />
