@@ -21,8 +21,8 @@
   <project name="micropython/micropython-lib" />
   <project name="MycroftAI/adapt" />
   <project name="MycroftAI/mycroft-core" />
-  <project name="NVIDIA/nvidia-docker" />
   <project name="nodejs/node" />
+  <project name="NVIDIA/nvidia-docker" />
   <project name="openframeworks/openFrameworks" />
   <project name="openwrt/openwrt" />
   <project name="peyo-hd/device_brcm_rpi2" />
