@@ -9,6 +9,7 @@
 
   <project name="altcrauer/linux" />
   <project name="altera-opensource/linux-socfpga" />
+  <project name="audiofilter/spuc" />
   <project name="biolab/orange3" />
   <project name="divio/django-cms" />
   <project name="FFmpeg/FFmpeg" />
