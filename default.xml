@@ -12,6 +12,7 @@
   <project name="audiofilter/spuc" />
   <project name="biolab/orange3" />
   <project name="ConversantLabs/SayKitSDK" />
+  <project name="curl/curl" />
   <project name="divio/django-cms" />
   <project name="FFmpeg/FFmpeg" />
   <project name="gabime/spdlog" />
