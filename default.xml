@@ -36,6 +36,7 @@
   <project name="raspberrypi/linux" />
   <project name="r9y9/pysptk" />
   <project name="r9y9/SPTK" />
+  <project name="Samsung/iotjs" />
   <project name="tensorflow/tensorflow" />
   <project name="tensorflow/models" />
   <project name="v8/v8" />
