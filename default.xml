@@ -32,6 +32,7 @@
   <project name="openframeworks/openFrameworks" />
   <project name="openwrt/openwrt" />
   <project name="peyo-hd/device_brcm_rpi2" />
+  <project name="plivo/plivoframework" />
   <project name="pocoproject/poco" />
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/linux" />
