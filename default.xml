@@ -40,5 +40,6 @@
   <project name="warmcat/libwebsockets" />
   <project name="yanyiwu/cppjieba" />
   <project name="zaphoyd/websocketpp" />
+  <project name="zsiciarz/aquila" />
 
 </manifest>
