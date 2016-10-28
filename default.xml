@@ -11,6 +11,7 @@
   <project name="altera-opensource/linux-socfpga" />
   <project name="audiofilter/spuc" />
   <project name="biolab/orange3" />
+  <project name="ConversantLabs/SayKitSDK" />
   <project name="divio/django-cms" />
   <project name="FFmpeg/FFmpeg" />
   <project name="GStreamer/gstreamer" />
