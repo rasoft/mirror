@@ -17,6 +17,7 @@
   <project name="GStreamer/gstreamer" />
   <project name="GStreamer/gst-plugins-base" />
   <project name="GStreamer/gst-plugins-good" />
+  <project name="julianstorer/JUCE" />
   <project name="kamalmostafa/minimodem" />
   <project name="kfrlib/kfr" />
   <project name="kubernetes/kubernetes" />
