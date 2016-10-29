@@ -7,6 +7,7 @@
            remote="github"
            sync-j="4" />
 
+  <project name="3Hren/blackhole" />
   <project name="altcrauer/linux" />
   <project name="altera-opensource/linux-socfpga" />
   <project name="audiofilter/spuc" />
