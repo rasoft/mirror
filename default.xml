@@ -43,6 +43,7 @@
   <project name="plivo/plivoframework" />
   <project name="pocoproject/poco" />
   <project name="rasoft/brillo-device" />
+  <project name="raspberrypi/firmware.git" />
   <project name="raspberrypi/linux" />
   <project name="r9y9/pysptk" />
   <project name="r9y9/SPTK" />
