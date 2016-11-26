@@ -39,6 +39,7 @@
   <project name="opencv/opencv_3rdparty" />
   <project name="openframeworks/openFrameworks" />
   <project name="openwrt/openwrt" />
+  <project name="pannzh/Airkiss" />
   <project name="peyo-hd/device_brcm_rpi2" />
   <project name="plivo/plivoframework" />
   <project name="pocoproject/poco" />
