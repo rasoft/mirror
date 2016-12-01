@@ -34,6 +34,9 @@
   <project name="MycroftAI/mycroft-core" />
   <project name="nodejs/node" />
   <project name="NVIDIA/nvidia-docker" />
+  <project name="opencog/atomspace" />
+  <project name="opencog/cogutils" />
+  <project name="opencog/opencog" />
   <project name="opencv/opencv" />
   <project name="opencv/opencv_contrib" />
   <project name="opencv/opencv_extra" />
@@ -43,10 +46,11 @@
   <project name="pannzh/Airkiss" />
   <project name="peyo-hd/device_brcm_rpi2" />
   <project name="plivo/plivoframework" />
-  <project name="pocoproject/poco" />
+  <project name="pocoproject/poco" />       
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/firmware.git" />
   <project name="raspberrypi/linux" />
+  <project name="renatopp/behavior3js" />
   <project name="r9y9/pysptk" />
   <project name="r9y9/SPTK" />
   <project name="Samsung/iotjs" />
