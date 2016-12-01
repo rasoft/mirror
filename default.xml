@@ -46,13 +46,13 @@
   <project name="pannzh/Airkiss" />
   <project name="peyo-hd/device_brcm_rpi2" />
   <project name="plivo/plivoframework" />
-  <project name="pocoproject/poco" />       
+  <project name="pocoproject/poco" />
+  <project name="r9y9/pysptk" />
+  <project name="r9y9/SPTK" />
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/firmware.git" />
   <project name="raspberrypi/linux" />
   <project name="renatopp/behavior3js" />
-  <project name="r9y9/pysptk" />
-  <project name="r9y9/SPTK" />
   <project name="Samsung/iotjs" />
   <project name="tensorflow/tensorflow" />
   <project name="tensorflow/models" />
