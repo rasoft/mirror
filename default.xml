@@ -58,6 +58,7 @@
   <project name="tensorflow/models" />
   <project name="ultimatepp/mirror" />
   <project name="v8/v8" />
+  <project name="vavrek/openassistant" />
   <project name="warmcat/libwebsockets" />
   <project name="yanyiwu/cppjieba" />
   <project name="zaphoyd/websocketpp" />
