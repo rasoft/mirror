@@ -54,6 +54,7 @@
   <project name="raspberrypi/linux" />
   <project name="renatopp/behavior3js" />
   <project name="Samsung/iotjs" />
+  <project name="Tencent/MSEC" />
   <project name="tensorflow/tensorflow" />
   <project name="tensorflow/models" />
   <project name="ultimatepp/mirror" />
