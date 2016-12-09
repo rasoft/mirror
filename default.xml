@@ -14,6 +14,8 @@
   <project name="biolab/orange3" />
   <project name="ConversantLabs/SayKitSDK" />
   <project name="curl/curl" />
+  <project name="DaveWoodCom/XCGLogger" />
+  <project name="devxoul/Toaster" />
   <project name="digint/tinyfsm" />
   <project name="divio/django-cms" />
   <project name="FFmpeg/FFmpeg" />
@@ -32,6 +34,7 @@
   <project name="micropython/micropython-lib" />
   <project name="MycroftAI/adapt" />
   <project name="MycroftAI/mycroft-core" />
+  <project name="nghialv/MaterialKit" />
   <project name="nodejs/node" />
   <project name="NVIDIA/nvidia-docker" />
   <project name="opencog/atomspace" />
@@ -52,8 +55,10 @@
   <project name="rasoft/brillo-device" />
   <project name="raspberrypi/firmware.git" />
   <project name="raspberrypi/linux" />
+  <project name="ReactiveX/RxSwift" />
   <project name="renatopp/behavior3js" />
   <project name="Samsung/iotjs" />
+  <project name="SwiftyJSON/SwiftyJSON" />
   <project name="Tencent/MSEC" />
   <project name="tensorflow/tensorflow" />
   <project name="tensorflow/models" />
