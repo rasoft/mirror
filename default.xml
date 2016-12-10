@@ -58,6 +58,7 @@
   <project name="ReactiveX/RxSwift" />
   <project name="renatopp/behavior3js" />
   <project name="Samsung/iotjs" />
+  <project name="svaarala/duktape" />
   <project name="SwiftyJSON/SwiftyJSON" />
   <project name="Tencent/MSEC" />
   <project name="tensorflow/tensorflow" />
