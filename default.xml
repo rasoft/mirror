@@ -72,5 +72,9 @@
   <project name="yanyiwu/cppjieba" />
   <project name="zaphoyd/websocketpp" />
   <project name="zsiciarz/aquila" />
+  <project name="RT-Thread/rt-thread" />
+  <project name="RT-Thread/packages" />
+  <project name="RT-Thread/rtthread-specification" />
+  <project name="RT-Thread/env" />
 
 </manifest>
