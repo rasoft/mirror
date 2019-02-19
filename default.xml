@@ -12,7 +12,6 @@
   <project name="altera-opensource/linux-socfpga" />
   <project name="audiofilter/spuc" />
   <project name="biolab/orange3" />
-  <project name="ConversantLabs/SayKitSDK" />
   <project name="curl/curl" />
   <project name="DaveWoodCom/XCGLogger" />
   <project name="devxoul/Toaster" />
