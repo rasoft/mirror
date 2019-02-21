@@ -5,7 +5,7 @@
            fetch="https://github.com" />
   <default revision="master"
            remote="github"
-           sync-j="4" />
+           sync-j="8" />
 
   <project name="3Hren/blackhole" />
   <project name="altcrauer/linux" />
@@ -75,5 +75,6 @@
   <project name="RT-Thread/packages" />
   <project name="RT-Thread/rtthread-specification" />
   <project name="RT-Thread/env" />
+  <project name="aws/amazon-freertos" />
 
 </manifest>
