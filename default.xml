@@ -76,5 +76,6 @@
   <project name="RT-Thread/rtthread-specification" />
   <project name="RT-Thread/env" />
   <project name="aws/amazon-freertos" />
+  <project name="c-sky/FreeRTOS" />
 
 </manifest>
