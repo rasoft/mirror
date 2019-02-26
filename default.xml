@@ -8,74 +8,187 @@
            sync-j="8" />
 
   <project name="3Hren/blackhole" />
+  
   <project name="altcrauer/linux" />
+  
   <project name="altera-opensource/linux-socfpga" />
+  
   <project name="audiofilter/spuc" />
+  
   <project name="biolab/orange3" />
+  
   <project name="curl/curl" />
+  
   <project name="DaveWoodCom/XCGLogger" />
+  
   <project name="devxoul/Toaster" />
+  
   <project name="digint/tinyfsm" />
+  
   <project name="divio/django-cms" />
+  
   <project name="FFmpeg/FFmpeg" />
+  
   <project name="gabime/spdlog" />
+  
   <project name="GStreamer/gstreamer" />
   <project name="GStreamer/gst-plugins-base" />
   <project name="GStreamer/gst-plugins-good" />
+  
   <project name="IGRSoft/KisMac2" />
+  
   <project name="julianstorer/JUCE" />
+  
   <project name="jonnor/finito" />
+  
   <project name="jpaulm/cppfbp" />
+  
   <project name="kamalmostafa/minimodem" />
+  
   <project name="kfrlib/kfr" />
+  
   <project name="kubernetes/kubernetes" />
+  
   <project name="LLK/scratch-flash" />
+  
   <project name="MaxKellermann/MPD" />
+  
   <project name="micropython/micropython" />
   <project name="micropython/micropython-lib" />
+  
   <project name="MycroftAI/adapt" />
   <project name="MycroftAI/mycroft-core" />
+  
   <project name="nghialv/MaterialKit" />
+  
   <project name="nodejs/node" />
+  
   <project name="NVIDIA/nvidia-docker" />
+  
   <project name="opencog/atomspace" />
   <project name="opencog/cogutils" />
   <project name="opencog/opencog" />
+  
   <project name="opencv/opencv" />
   <project name="opencv/opencv_contrib" />
   <project name="opencv/opencv_extra" />
   <project name="opencv/opencv_3rdparty" />
+  
   <project name="openframeworks/openFrameworks" />
+  
   <project name="openwrt/openwrt" />
+  
   <project name="pannzh/Airkiss" />
+  
   <project name="peyo-hd/device_brcm_rpi2" />
+  
   <project name="plivo/plivoframework" />
+  
   <project name="pocoproject/poco" />
+  
   <project name="r9y9/pysptk" />
   <project name="r9y9/SPTK" />
+  
   <project name="rasoft/brillo-device" />
+  
   <project name="raspberrypi/firmware.git" />
   <project name="raspberrypi/linux" />
+  
   <project name="ReactiveX/RxSwift" />
+  
   <project name="renatopp/behavior3js" />
+  
   <project name="Samsung/iotjs" />
+  
   <project name="svaarala/duktape" />
+  
   <project name="SwiftyJSON/SwiftyJSON" />
+  
   <project name="Tencent/MSEC" />
+  
   <project name="tensorflow/tensorflow" />
   <project name="tensorflow/models" />
+  
   <project name="ultimatepp/mirror" />
+  
   <project name="v8/v8" />
+  
   <project name="vavrek/openassistant" />
+  
   <project name="warmcat/libwebsockets" />
+  
   <project name="yanyiwu/cppjieba" />
+  
   <project name="zaphoyd/websocketpp" />
+  
   <project name="zsiciarz/aquila" />
+  
   <project name="RT-Thread/rt-thread" />
   <project name="RT-Thread/packages" />
   <project name="RT-Thread/rtthread-specification" />
   <project name="RT-Thread/env" />
+  
   <project name="aws/amazon-freertos" />
+  
   <project name="c-sky/FreeRTOS" />
+  
+  <project name="espressif/esp-idf" />
+  <project name="espressif/ESP8266_RTOS_SDK" />
+  <project name="espressif/arduino-esp32" />
+  <project name="espressif/esp-google-iot" />
+  <project name="espressif/esp32-bt-lib" />
+  <project name="espressif/esp-who" />
+  <project name="espressif/ESP8266_NONOS_SDK" />
+  <project name="espressif/esp-va-sdk" />
+  <project name="espressif/esp32-wifi-lib" />
+  <project name="espressif/esp-mdf" />
+  <project name="espressif/esp-face" />
+  <project name="espressif/esp-mqtt" />
+  <project name="espressif/esp-azure" />
+  <project name="espressif/esp32-at" />
+  <project name="espressif/openocd-esp32" />
+  <project name="espressif/esp32-camera" />
+  <project name="espressif/esptool" />
+  <project name="espressif/esp-dsp" />
+  <project name="espressif/clang-xtensa" />
+  <project name="espressif/llvm-xtensa" />
+  <project name="espressif/esp-adf" />
+  <project name="espressif/esp-iot-solution" />
+  <project name="espressif/esp-adf-libs" />
+  <project name="espressif/esp-aliyun" />
+  <project name="espressif/esp-lwip" />
+  <project name="espressif/esp-gdbstub" />
+  <project name="espressif/esp-idf-template" />
+  <project name="espressif/WROVER_KIT_LCD" />
+  <project name="espressif/binutils-gdb" />
+  <project name="espressif/esp-welink" />
+  <project name="espressif/esp-baidu-iot" />
+  <project name="espressif/esp-idf-provisioning-android" />
+  <project name="espressif/vscode-esp-idf-extension" />
+  <project name="espressif/esp-joylink" />
+  <project name="espressif/eclipse-plugin-esp32" />
+  <project name="espressif/esp-idf-provisioning-ios" />
+  <project name="espressif/binutils-esp32ulp" />
+  <project name="espressif/ESP8266_IOT_PLATFORM" />
+  <project name="espressif/mbedtls" />
+  <project name="espressif/newlib-esp32" />
+  <project name="espressif/gcc" />
+  <project name="espressif/crosstool-NG" />
+  <project name="espressif/esp8266-rtos-sample-code" />
+  <project name="espressif/esp-qcloud" />
+  <project name="espressif/aws-iot-device-sdk-embedded-C" />
+  <project name="espressif/asio" />
+  <project name="espressif/esp8266-alink-v1.0" />
+  <project name="espressif/esp-wolfssl" />
+  <project name="espressif/esp8266-dual-cloud" />
+  <project name="espressif/kconfig-frontends" />
+  <project name="espressif/esp32-iotivity" />
+  <project name="espressif/AliOS-Things" />
+  <project name="espressif/esp32-nesemu" />
+  <project name="espressif/esp32-alink-demo" />
+  <project name="espressif/esp32-alink" />
+  <!-- 早期版本就不镜像了 --/>
+  
+  
 
 </manifest>
