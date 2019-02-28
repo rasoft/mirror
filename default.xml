@@ -6,6 +6,8 @@
   <default revision="master"
            remote="github"
            sync-j="8" />
+  
+  <project name="alexa/avs-device-sdk" />
 
   <project name="3Hren/blackhole" />
   
