@@ -189,5 +189,7 @@
   <project name="espressif/esp32-nesemu" />
   <project name="espressif/esp32-alink-demo" />
   <project name="espressif/esp32-alink" />
+  
+  <project name="dmlc/tvm" />
 
 </manifest>
