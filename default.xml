@@ -80,6 +80,8 @@
   
   <project name="openwrt/openwrt" />
   
+  <project name="pando-project/iotjs" />
+  
   <project name="pannzh/Airkiss" />
   
   <project name="peyo-hd/device_brcm_rpi2" />
@@ -99,8 +101,6 @@
   <project name="ReactiveX/RxSwift" />
   
   <project name="renatopp/behavior3js" />
-  
-  <project name="Samsung/iotjs" />
   
   <project name="svaarala/duktape" />
   
