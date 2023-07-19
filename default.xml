@@ -22,5 +22,6 @@
   <project name="Xilinx/vcu-ctrl-sw" />
   <project name="Xilinx/vcu-omx-il" />
   <project name="Xilinx/hdmi-modules" />
+  <project name="Xilinx/mali-userspace-binaries" />
 
 </manifest>
