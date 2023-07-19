@@ -6,8 +6,7 @@
   <default revision="master"
            remote="github"
            sync-j="8" />
-  <project name="rasoft/mirror" />
-  
+
   <project name="MentorEmbedded/mpsoc-android_device_xilinx" />
   <project name="MentorEmbedded/mpsoc-linux-xlnx" />
   <project name="MentorEmbedded/mpsoc-u-boot-xlnx" />
