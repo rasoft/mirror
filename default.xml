@@ -26,6 +26,7 @@
   <project name="Xilinx/vcu-omx-il" />
   <project name="Xilinx/hdmi-modules" />
   <project name="Xilinx/mali-userspace-binaries" />
+  <project name="Xilinx/linux-xlnx" />
 
   <project name="khadas/android_vendor_amlogic_external_busybox" />
   <project name="khadas/android_vendor_amlogic_external_pppoe" />
