@@ -19,6 +19,7 @@
   <project name="MentorEmbedded/vcu-omx-il" />
   <project name="MentorEmbedded/vcu-ctrl-sw" />
   <project name="MentorEmbedded/mpsoc-hdmi-modules" />
+  <project name="MentorEmbedded/mpsoc-android_frameworks_av" />
 
   <project name="Xilinx/vcu-firmware" />
   <project name="Xilinx/vcu-modules" />
