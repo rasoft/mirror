@@ -722,5 +722,21 @@
   <project name="khadas/android_toolchain_pgo-profiles" />
 
   <project name="khadas/u-boot" />
+  <project name="khadas/android_external_dbus-binding-generator" />
+  <project name="khadas/android_external_opencv3" />
+  <project name="khadas/android_external_regex-re2" />
+  <project name="khadas/android_external_tlsdate" />
+  <project name="khadas/android_external_messageformat" />
+  <project name="khadas/android_frameworks_opt_emoji" />
+  <project name="khadas/android_frameworks_opt_bluetooth" />
+  <project name="khadas/android_hardware_amlogic_touch" />
+  <project name="khadas/android_external_srtp" />
+  <project name="khadas/android_external_netperf" />
+  <project name="khadas/android_external_lld" />
+  <project name="khadas/android_packages_apps_SpeechRecorder" />
+  <project name="khadas/android_prebuilts_clang_linux-x86_host_3.6" />
+  <project name="khadas/android_prebuilts_clang_darwin-x86_host_3.6" />
+  <project name="khadas/android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.11-4.8" />
+  
 
 </manifest>
