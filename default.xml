@@ -722,6 +722,8 @@
   <project name="khadas/android_toolchain_pgo-profiles" />
 
   <project name="khadas/u-boot" />
+
+  <!-- Khadas Android 8 -->
   <project name="khadas/android_external_dbus-binding-generator" />
   <project name="khadas/android_external_opencv3" />
   <project name="khadas/android_external_regex-re2" />
@@ -737,6 +739,11 @@
   <project name="khadas/android_prebuilts_clang_linux-x86_host_3.6" />
   <project name="khadas/android_prebuilts_clang_darwin-x86_host_3.6" />
   <project name="khadas/android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.11-4.8" />
-  
-
+  <project name="khadas/android_vendor_amlogic_dvb" />
+  <project name="khadas/android_vendor_broadcom_btusb" />
+  <project name="khadas/android_vendor_huitong" />
+  <project name="khadas/android_vendor_amlogic_external_libiconv "/>
+  <project name="khadas/android_vendor_amlogic_system_modem "/>
+  <project name="khadas/android_vendor_amlogic_external_libbluray "/>
+  <project name="khadas/android_vendor_amlogic_frameworks_av_LibPlayer "/>
 </manifest>
