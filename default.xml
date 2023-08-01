@@ -751,15 +751,24 @@
   <project name="khadas/android_frameworks_opt_emoji" />
   <project name="khadas/android_frameworks_opt_bluetooth" />
   <project name="khadas/android_frameworks_webview" />
+  <project name="khadas/android_frameworks_volley" />
   
   <project name="khadas/android_hardware_amlogic_touch" />
+  <project name="khadas/android_hardware_amlogic_sensors" />
+  <project name="khadas/android_hardware_amlogic_nand" />
   <project name="khadas/android_hardware_bsp_intel" />
   <project name="khadas/android_hardware_marvell_bt" />
   <project name="khadas/android_hardware_wifi_broadcom_drivers_usi" />
   <project name="khadas/android_hardware_qcom_bt" />
+  <project name="khadas/android_hardware_qcom_camera" />
+  <project name="khadas/android_hardware_qcom_msm8996" />
+  <project name="khadas/android_hardware_wifi_qualcomm_drivers_qca9379" />
   <project name="khadas/android_hardware_arm_gpu" />
+  <project name="khadas/android_hardware_intel_sensors" />
   
   <project name="khadas/android_packages_apps_SpeechRecorder" />
+  <project name="khadas/android_packages_apps_Calculator" />
+  <project name="khadas/android_packages_apps_Phone" />
 
   <project name="khadas/android_prebuilts_clang_host_linux-x86" />
   <project name="khadas/android_prebuilts_clang_linux-x86_host_3.6" />
@@ -785,7 +794,11 @@
   <project name="khadas/supersu" />
   
   <project name="khadas/android_ndk" />
+  <project name="khadas/android_cts" />
   <project name="khadas/android_tools_external_gradle" />
+  
   <project name="khadas/android_system_firewalld" />
+  <project name="khadas/android_system_connectivity_apmanager" />
+  <project name="khadas/android_system_connectivity_dhcp_client" />
   
 </manifest>
