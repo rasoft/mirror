@@ -781,8 +781,6 @@
   <project name="khadas/android_vendor_amlogic_apps_HdmiSwitch" />
   <project name="khadas/android_vendor_amlogic_external_alsa-lib" />
   <project name="khadas/android_vendor_amlogic_apps_DTVPlayer" />
-  <project name="khadas/android_vendor_amlogic_fbc3-release" />
-  
   
   <project name="khadas/supersu" />
   
