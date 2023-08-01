@@ -724,72 +724,91 @@
   <project name="khadas/u-boot" />
 
   <!-- Khadas Android 8 -->
-  <project name="khadas/android_external_dbus-binding-generator" />
-  <project name="khadas/android_external_opencv3" />
-  <project name="khadas/android_external_regex-re2" />
-  <project name="khadas/android_external_tlsdate" />
-  <project name="khadas/android_external_messageformat" />
-  <project name="khadas/android_external_srtp" />
-  <project name="khadas/android_external_netperf" />
-  <project name="khadas/android_external_lld" />
   <project name="khadas/android_external_avahi" />
-  <project name="khadas/android_external_gmock" />
-  <project name="khadas/android_external_libvorbis" />
-  <project name="khadas/android_external_jetty" />
-  <project name="khadas/android_external_libnfc-nxp" />
+  <project name="khadas/android_external_dbus-binding-generator" />
   <project name="khadas/android_external_ceres-solver" />
-  <project name="khadas/android_external_littlemock" />
-  <project name="khadas/android_external_jhead" />
-  <project name="khadas/android_external_libnfc-nci" />
-  <project name="khadas/android_external_xmlwriter" />
-  <project name="khadas/android_external_libweave" />
+  <project name="khadas/android_external_chromium-webview" />
   <project name="khadas/android_external_c-ares" />
+
+  <project name="khadas/android_external_gmock" />
+  <project name="khadas/android_external_gtest" />
+  <project name="khadas/android_external_jetty" />
+  <project name="khadas/android_external_jhead" />
+  <project name="khadas/android_external_libnfc-nxp" />
+  <project name="khadas/android_external_libnfc-nci" />
+  <project name="khadas/android_external_libvorbis" />
   <project name="khadas/android_external_liblzf" />
   <project name="khadas/android_external_libselinux" />
-  <project name="khadas/android_external_chromium-webview" />
+  <project name="khadas/android_external_libweave" />
+  
+  <project name="khadas/android_external_littlemock" />
+  <project name="khadas/android_external_lld" />
+  <project name="khadas/android_external_ltrace" />
+  <project name="khadas/android_external_messageformat" />
+  <project name="khadas/android_external_netperf" />
+  <project name="khadas/android_external_opencv3" />
+  <project name="khadas/android_external_regex-re2" />
+  <project name="khadas/android_external_srtp" />
+  <project name="khadas/android_external_tlsdate" />
+  <project name="khadas/android_external_xmlwriter" />
   
   <project name="khadas/android_frameworks_opt_emoji" />
   <project name="khadas/android_frameworks_opt_bluetooth" />
   <project name="khadas/android_frameworks_webview" />
   <project name="khadas/android_frameworks_volley" />
   
+  <project name="khadas/android_hardware_amlogic_libbt" />
   <project name="khadas/android_hardware_amlogic_touch" />
   <project name="khadas/android_hardware_amlogic_sensors" />
   <project name="khadas/android_hardware_amlogic_nand" />
+  <project name="khadas/android_hardware_amlogic_audio_dia_remote" />
+  <project name="khadas/android_hardware_amlogic_usbctrl" />
+  
   <project name="khadas/android_hardware_bsp_intel" />
   <project name="khadas/android_hardware_marvell_bt" />
-  <project name="khadas/android_hardware_wifi_broadcom_drivers_usi" />
+  
   <project name="khadas/android_hardware_qcom_bt" />
   <project name="khadas/android_hardware_qcom_camera" />
   <project name="khadas/android_hardware_qcom_msm8996" />
-  <project name="khadas/android_hardware_wifi_qualcomm_drivers_qca9379" />
+  
   <project name="khadas/android_hardware_arm_gpu" />
   <project name="khadas/android_hardware_intel_sensors" />
+  <project name="khadas/android_hardware_realtek_bluetooth" />
+  <project name="khadas/android_hardware_mtk_bluetooth" />
+  
+  <project name="khadas/android_hardware_wifi_qualcomm_drivers_qca9379" />
+  <project name="khadas/android_hardware_wifi_mtk_drivers_mt7603" />
+  <project name="khadas/android_hardware_wifi_broadcom_drivers_usi" />
   
   <project name="khadas/android_packages_apps_SpeechRecorder" />
   <project name="khadas/android_packages_apps_Calculator" />
   <project name="khadas/android_packages_apps_Phone" />
+  <project name="khadas/android_packages_apps_ContactsCommon" />
+  
 
   <project name="khadas/android_prebuilts_clang_host_linux-x86" />
   <project name="khadas/android_prebuilts_clang_linux-x86_host_3.6" />
   <project name="khadas/android_prebuilts_clang_darwin-x86_host_3.6" />
   <project name="khadas/android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.11-4.8" />
   <project name="khadas/android_prebuilts_ninja_linux-x86" />
+  <project name="khadas/android_prebuilts_ninja_darwin-x86" />
   <project name="khadas/android_prebuilts_misc" />
   
   <project name="khadas/android_vendor_broadcom_btusb" />
   <project name="khadas/android_vendor_huitong" />
+  <project name="khadas/android_vendor_amlogic_system_modem" />
   <project name="khadas/android_vendor_amlogic_dvb" />
   <project name="khadas/android_vendor_amlogic_external_libiconv" />
-  <project name="khadas/android_vendor_amlogic_system_modem" />
   <project name="khadas/android_vendor_amlogic_external_libbluray" />
+  <project name="khadas/android_vendor_amlogic_external_alsa-lib" />
   <project name="khadas/android_vendor_amlogic_frameworks_av_LibPlayer" />
   <project name="khadas/android_vendor_amlogic_apps_MboxSettings" />
-  <project name="khadas/android_vendor_amlogic_fbc3-release" />
   <project name="khadas/android_vendor_amlogic_apps_TvMiddleware" />
   <project name="khadas/android_vendor_amlogic_apps_HdmiSwitch" />
-  <project name="khadas/android_vendor_amlogic_external_alsa-lib" />
   <project name="khadas/android_vendor_amlogic_apps_DTVPlayer" />
+  <project name="khadas/android_vendor_amlogic_apps_Dig" />
+  <project name="khadas/android_vendor_amlogic_apps_HDMI_in" />
+  <project name="khadas/android_vendor_amlogic_fbc3-release" />
   
   <project name="khadas/supersu" />
   
@@ -800,5 +819,9 @@
   <project name="khadas/android_system_firewalld" />
   <project name="khadas/android_system_connectivity_apmanager" />
   <project name="khadas/android_system_connectivity_dhcp_client" />
+  <project name="khadas/android_system_connectivity_shill" />
+  <project name="khadas/android_system_nativepower" />
+  <project name="khadas/android_system_weaved" />
+  <project name="khadas/android_system_webservd" />
   
 </manifest>
