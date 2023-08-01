@@ -742,8 +742,10 @@
   <project name="khadas/android_vendor_amlogic_dvb" />
   <project name="khadas/android_vendor_broadcom_btusb" />
   <project name="khadas/android_vendor_huitong" />
-  <project name="khadas/android_vendor_amlogic_external_libiconv "/>
-  <project name="khadas/android_vendor_amlogic_system_modem "/>
-  <project name="khadas/android_vendor_amlogic_external_libbluray "/>
-  <project name="khadas/android_vendor_amlogic_frameworks_av_LibPlayer "/>
+  <project name="khadas/android_vendor_amlogic_external_libiconv" />
+  <project name="khadas/android_vendor_amlogic_system_modem" />
+  <project name="khadas/android_vendor_amlogic_external_libbluray" />
+  <project name="khadas/android_vendor_amlogic_frameworks_av_LibPlayer" />
+  <project name="khadas/android_vendor_amlogic_apps_MboxSettings" />
+  
 </manifest>
