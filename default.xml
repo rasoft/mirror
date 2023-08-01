@@ -725,6 +725,7 @@
 
   <!-- Khadas Android 8 -->
   <project name="khadas/android_external_avahi" />
+  <project name="khadas/android_external_dbus" />
   <project name="khadas/android_external_dbus-binding-generator" />
   <project name="khadas/android_external_ceres-solver" />
   <project name="khadas/android_external_chromium-webview" />
