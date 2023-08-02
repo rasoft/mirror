@@ -777,6 +777,7 @@
   
   <project name="khadas/android_hardware_arm_gpu" />
   <project name="khadas/android_hardware_intel_sensors" />
+  <project name="khadas/android_hardware_intel_bootstub" />
   <project name="khadas/android_hardware_realtek_bluetooth" />
   <project name="khadas/android_hardware_mtk_bluetooth" />
   
@@ -788,12 +789,15 @@
   <project name="khadas/android_packages_apps_Calculator" />
   <project name="khadas/android_packages_apps_Phone" />
   <project name="khadas/android_packages_apps_ContactsCommon" />
-  
+  <project name="khadas/android_packages_apps_Car_UserManagement" />
+  <project name="khadas/android_packages_apps_RetailDemo" />
 
   <project name="khadas/android_prebuilts_clang_host_linux-x86" />
   <project name="khadas/android_prebuilts_clang_linux-x86_host_3.6" />
   <project name="khadas/android_prebuilts_clang_darwin-x86_host_3.6" />
   <project name="khadas/android_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.11-4.8" />
+  <project name="khadas/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.8" />
+  <project name="khadas/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" />
   <project name="khadas/android_prebuilts_ninja_linux-x86" />
   <project name="khadas/android_prebuilts_ninja_darwin-x86" />
   <project name="khadas/android_prebuilts_misc" />
