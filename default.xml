@@ -741,6 +741,7 @@
   <project name="khadas/android_external_liblzf" />
   <project name="khadas/android_external_libselinux" />
   <project name="khadas/android_external_libweave" />
+  <project name="khadas/android_external_libutf" />
   
   <project name="khadas/android_external_littlemock" />
   <project name="khadas/android_external_lld" />
@@ -752,6 +753,7 @@
   <project name="khadas/android_external_srtp" />
   <project name="khadas/android_external_tlsdate" />
   <project name="khadas/android_external_xmlwriter" />
+  
   
   <project name="khadas/android_frameworks_opt_emoji" />
   <project name="khadas/android_frameworks_opt_bluetooth" />
