@@ -29,6 +29,7 @@
   <project name="Xilinx/mali-userspace-binaries" />
   <project name="Xilinx/linux-xlnx" />
 
+  <project name="khadas/android_manifest" />
   <project name="khadas/android_vendor_amlogic_external_busybox" />
   <project name="khadas/android_vendor_amlogic_external_pppoe" />
   <project name="khadas/android_vendor_amlogic_gpu" />
